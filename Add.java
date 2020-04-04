@@ -8,4 +8,4 @@ public class Add{
       System.out.println("Sum of these numbers: "+sum);
    }
 }
-/* TEST */
+/* TEST1 */
